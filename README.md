@@ -1,4 +1,4 @@
-Hi, I’m @elizabethastroud
+Hi, I’m Elizabeth Stroud
 I’m an archaeologist interested in using R for interrogating archaeological data, in particular isotopic and archaeobotanical data.
 You can reach me at elizabeth.stroud@arch.ox.ac.uk. 
 
